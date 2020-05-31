@@ -1,0 +1,10 @@
+setup.py
+scv_dist/Binomialdistribution.py
+scv_dist/Gaussiandistribution.py
+scv_dist/Generaldistribution.py
+scv_dist/__init__.py
+scv_dist.egg-info/PKG-INFO
+scv_dist.egg-info/SOURCES.txt
+scv_dist.egg-info/dependency_links.txt
+scv_dist.egg-info/not-zip-safe
+scv_dist.egg-info/top_level.txt
